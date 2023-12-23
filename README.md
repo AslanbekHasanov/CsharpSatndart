@@ -4,4 +4,9 @@ Guidelines for C# coding style
 
 
 #### Menu
-* [File](https://github.com/AslanbekHasanov/Morcdown/blob/main/File.md) 
+* [0.File](https://github.com/AslanbekHasanov/Morcdown/blob/main/File.md) 
+* [1.Comments & Documentation](https://github.com/AslanbekHasanov/Morcdown/blob/main/Comments&Documentation.md)
+* [2.Classes & Interface](https://github.com/AslanbekHasanov/Morcdown/blob/main/Classes&Interfac.md)
+* [3.Directives](https://github.com/AslanbekHasanov/Morcdown/blob/main/Directives.md)
+* [4.Methods](https://github.com/AslanbekHasanov/Morcdown/blob/main/Methods.md)
+* [5.Variables](https://github.com/AslanbekHasanov/Morcdown/blob/main/Variables.md)
