@@ -33,4 +33,4 @@ Ishlab chiqarish vaqtida mavjud bo'lmagan kodga ega bo'lgan yoki murakkab funksi
 - Maqsad 
 - Daromatlar 
 - Natijalar 
-- Yon effektlar
+- Yon effektlar			
