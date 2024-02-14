@@ -18,7 +18,7 @@ Xuddi shu qoidaga lambda ifodalari uchun ham amal qiladi.
 #### Bajarmang 
 ```csharp
 students.Where(student => student...);
-```csharp
+```
 #### Bajarmang
 ```csharp
 students.Where(s => s...)
