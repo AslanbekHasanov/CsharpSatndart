@@ -4,10 +4,12 @@ Izohlar faqat kodni tushuntirish uchun ishlatilishi mumkin. Kod ko'rinadimi yoki
 ## 12.1 Mualliflik huquqi
 Mualliflik huquqini ta'kidlaydigan sharhlar quyidagi bandga amal qiladi.
 ### Bajaring
-```
+```csharp
 #-------------------------------------------------------------
-#Mualliflik huquqi (c) Coalintion of th Good-Heartd Engineers.
-#dUNYONI BOG'LANISH UCHUN FOYDALANISH BEPUL
+#    // ---------------------------------------------------------------
+#    // Copyright (c) Coalition of the Good-Hearted Engineers
+#    // FREE TO USE TO CONNECT THE WORLD
+#    // ---------------------------------------------------------------
 #-------------------------------------------------------------
 ```
 ### Bajarmang
