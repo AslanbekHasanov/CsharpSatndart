@@ -5,12 +5,10 @@ Izohlar faqat kodni tushuntirish uchun ishlatilishi mumkin. Kod ko'rinadimi yoki
 Mualliflik huquqini ta'kidlaydigan sharhlar quyidagi bandga amal qiladi.
 ### Bajaring
 ```csharp
-#-------------------------------------------------------------
 #    // ---------------------------------------------------------------
 #    // Copyright (c) Coalition of the Good-Hearted Engineers
 #    // FREE TO USE TO CONNECT THE WORLD
 #    // ---------------------------------------------------------------
-#-------------------------------------------------------------
 ```
 ### Bajarmang
 ```
