@@ -5,7 +5,7 @@ Fayl nomlari PascalCase konventsiyasiga va `.cs` fayl kengaytmasiga mos kelishi 
 
 ### Shu ko'rinishda
 ```
-Talaba.cs
+Student.cs
 ```
 ### Boshqa ko'rinishi 
 ```
