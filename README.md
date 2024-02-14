@@ -10,3 +10,6 @@ Guidelines for C# coding style
 * [3.Directives](https://github.com/AslanbekHasanov/Morcdown/blob/main/Directives.md)
 * [4.Methods](https://github.com/AslanbekHasanov/Morcdown/blob/main/Methods.md)
 * [5.Variables](https://github.com/AslanbekHasanov/Morcdown/blob/main/Variables.md)
+
+
+📝Muallif:[Hassan Rezk Habib](https://github.com/hassanhabib)
